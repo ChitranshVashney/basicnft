@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T20:59:21.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3nbEwkgPzEoyMSGu18x2" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T18:58:10.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lyl_kr4ahxD1Nin8Xlwn" version="22.1.18" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
-    <mxGraphModel dx="2693" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2534" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,24 +63,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-49" value="Vault N" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="42" y="950" width="110" height="140" as="geometry" />
+          <mxGeometry x="42" y="881" width="110" height="140" as="geometry" />
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="A1dpFbToaNjtfmAWi_-P-51" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="589" y="1020" as="targetPoint" />
+            <mxPoint x="589" y="951" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-51" value="Token1- a&lt;br&gt;Token2- b&lt;br&gt;Token3- c&lt;br&gt;.&lt;br&gt;.&lt;br&gt;.&lt;br&gt;TokenN - x" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="379" y="950" width="140" height="140" as="geometry" />
+          <mxGeometry x="379" y="881" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-54" value="Vault Strategies - High Risk High Return /&lt;br&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Low Risk Low Return/&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Low Risk High Return&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Vault Duration - 10/15/20/30 days&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-248" y="985" width="240" height="70" as="geometry" />
+          <mxGeometry x="-248" y="916" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="A1dpFbToaNjtfmAWi_-P-54" target="A1dpFbToaNjtfmAWi_-P-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-56" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* Vault Strategies: Designed model on that basis to get that type return&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* Vault Duration: Time when rebalancing of tokens happens&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-218" y="1130" width="400" height="40" as="geometry" />
+          <mxGeometry x="-218" y="1061" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-59" value="- - - - - - -- n Vaults- - - - - - - -" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="140" width="170" height="30" as="geometry" />
@@ -93,19 +93,19 @@
         <mxCell id="A1dpFbToaNjtfmAWi_-P-71" value="USDC" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="170" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A1dpFbToaNjtfmAWi_-P-74" value="&lt;h1&gt;sudoYield Protocol&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="50" width="200" height="120" as="geometry" />
+        <mxCell id="A1dpFbToaNjtfmAWi_-P-74" value="&lt;h1&gt;sudoYield Protocol&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-211" y="20" width="131" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-76" value="* Some tokens are also used for&lt;br&gt;Yield Farming to maximise yield" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="369" y="1098" width="190" height="40" as="geometry" />
+          <mxGeometry x="369" y="1029" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="A1dpFbToaNjtfmAWi_-P-78" target="A1dpFbToaNjtfmAWi_-P-49" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="109" y="888" as="targetPoint" />
+            <mxPoint x="109" y="819" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="729" y="1020" />
-              <mxPoint x="729" y="918" />
-              <mxPoint x="97" y="918" />
+              <mxPoint x="729" y="951" />
+              <mxPoint x="729" y="849" />
+              <mxPoint x="97" y="849" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-78" value="Token 2&lt;br&gt;Token 3&lt;br&gt;used for Yield Farming" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="589" y="980" width="120" height="80" as="geometry" />
+          <mxGeometry x="589" y="911" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-82" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="5" y="170" width="30" height="60" as="geometry" />
@@ -124,51 +124,114 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-86" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.authenticated_user;" parent="1" vertex="1">
-          <mxGeometry x="-181" y="647" width="40" height="40" as="geometry" />
+          <mxGeometry x="-181" y="594" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-90" value="Vault Manager" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-211" y="686" width="100" height="30" as="geometry" />
+          <mxGeometry x="-211" y="633" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="A1dpFbToaNjtfmAWi_-P-91" target="A1dpFbToaNjtfmAWi_-P-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-91" value="Token1- a&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Token2- b&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Token3- c&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;.&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;.&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;.&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;TokenN - x" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="249" y="577" width="160" height="180" as="geometry" />
+          <mxGeometry x="249" y="524" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-92" value="* Vault Manager: Manage vault like decide tokens, &lt;br&gt;&amp;nbsp; &amp;nbsp;Vault Strategies, Vault Duration" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-211" y="777" width="290" height="40" as="geometry" />
+          <mxGeometry x="-211" y="724" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-94" value="Make ML Models and applied on vault for deciding Tokens amounts for Higher returns and generating max yield" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-44" y="586" width="190" height="162" as="geometry" />
+          <mxGeometry x="-44" y="533" width="190" height="162" as="geometry" />
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="A1dpFbToaNjtfmAWi_-P-94" target="A1dpFbToaNjtfmAWi_-P-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-100" value="Vault N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="291" y="757" width="60" height="30" as="geometry" />
+          <mxGeometry x="291" y="704" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-104" value="&lt;ul style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Token Amounts are locked and Vault Manger can change them during Vault Duration reached.&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Tokens can only converted to stable Tokens if Vault Manager finds some risk in that token if vault duration has not reached.&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="504" y="607" width="320" height="120" as="geometry" />
+          <mxGeometry x="504" y="554" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A1dpFbToaNjtfmAWi_-P-107" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-79.99999999999955" y="1440" as="targetPoint" />
+            <mxPoint x="-79.99999999999955" y="1225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0oLWtJvmQzbtQnP35iJ-4" value="Mint" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A1dpFbToaNjtfmAWi_-P-116">
+          <mxGeometry x="-0.3268" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1dpFbToaNjtfmAWi_-P-107" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="1410" width="30" height="60" as="geometry" />
+          <mxGeometry x="-160" y="1195" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A1dpFbToaNjtfmAWi_-P-113" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="1700" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TANSrH0gQggPooo4-6Tv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TANSrH0gQggPooo4-6Tv-2" target="TANSrH0gQggPooo4-6Tv-3">
+        <mxCell id="I0oLWtJvmQzbtQnP35iJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A1dpFbToaNjtfmAWi_-P-113" target="I0oLWtJvmQzbtQnP35iJ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TANSrH0gQggPooo4-6Tv-2" value="Any Token" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="1415" width="50" height="50" as="geometry" />
+        <mxCell id="I0oLWtJvmQzbtQnP35iJ-7" value="Burn" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I0oLWtJvmQzbtQnP35iJ-6">
+          <mxGeometry x="0.1386" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="TANSrH0gQggPooo4-6Tv-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1400" width="80" height="80" as="geometry" />
+        <mxCell id="A1dpFbToaNjtfmAWi_-P-113" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="1378" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TANSrH0gQggPooo4-6Tv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TANSrH0gQggPooo4-6Tv-2" target="TANSrH0gQggPooo4-6Tv-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TANSrH0gQggPooo4-6Tv-2" value="Any Token" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-75" y="1200" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TANSrH0gQggPooo4-6Tv-3" value="0x for dividing the token&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="22" y="1185" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I0oLWtJvmQzbtQnP35iJ-1" value="Tokens in the vault" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="249" y="1185" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I0oLWtJvmQzbtQnP35iJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TANSrH0gQggPooo4-6Tv-3" target="I0oLWtJvmQzbtQnP35iJ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0oLWtJvmQzbtQnP35iJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I0oLWtJvmQzbtQnP35iJ-5" target="I0oLWtJvmQzbtQnP35iJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0oLWtJvmQzbtQnP35iJ-5" value="Vault" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="72" y="1368" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I0oLWtJvmQzbtQnP35iJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I0oLWtJvmQzbtQnP35iJ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-145" y="1475" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-145" y="1625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0oLWtJvmQzbtQnP35iJ-25" value="Remaining" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I0oLWtJvmQzbtQnP35iJ-10">
+          <mxGeometry x="0.4634" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0oLWtJvmQzbtQnP35iJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I0oLWtJvmQzbtQnP35iJ-8" target="I0oLWtJvmQzbtQnP35iJ-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150" y="1685" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0oLWtJvmQzbtQnP35iJ-23" value="Fee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I0oLWtJvmQzbtQnP35iJ-20">
+          <mxGeometry x="0.5419" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0oLWtJvmQzbtQnP35iJ-8" value="USDC token" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-8" y="1585" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I0oLWtJvmQzbtQnP35iJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I0oLWtJvmQzbtQnP35iJ-13" target="I0oLWtJvmQzbtQnP35iJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0oLWtJvmQzbtQnP35iJ-13" value="0x for combine the tokens&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1495" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I0oLWtJvmQzbtQnP35iJ-21" value="Fee Contract" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-175" y="1715" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I0oLWtJvmQzbtQnP35iJ-30" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 19px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Fee Calculations:&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Fee= 2* (x / y) * V&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;V : USD value of token burn&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;x : Total time user have tokens in the&amp;nbsp; &amp;nbsp;vault&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;y: Vault Duration&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1410" width="205" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
